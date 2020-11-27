@@ -29,7 +29,7 @@ public class formulario extends javax.swing.JFrame {
     private static final String driver = "com.mysql.jdbc.Driver";
     private static final String user = "root";
     private static final String pass = "";
-    private static final String url = "jdbc:mysql://localhost:3306/dbtienda";
+    private static final String url = "jdbc:mysql://localhost:3306/dbcarpinteria";
     public formulario(){
         initComponents();
     }
